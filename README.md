@@ -45,6 +45,8 @@ When all you do is edit YAML files and send memes at work but they want you to c
 - React/React Native front-end
 - Observability/Alerting system?
 - Security Vulerabilities, versioning, rollback plans, traffic dialing, canary testing, incident handling blah
+- Deploy to Heroku and point subdomain to it `<company>.annoying.dev` mostly for my own amusement
+
 
 # Fintech. Random Notes. 
 - Lithic, LC style -> paused
