@@ -50,9 +50,16 @@ When all you do is edit YAML files and send memes at work but they want you to c
 - Lithic, LC style -> paused
 - Pilot -> ByteBoard -> paused but they're updating their technical screen
 - Brex -> Moved straight to onsite but paused. Amazon vibes. Maybe Netflix vibes though.
-- Column Tax -> paused, conflict
+- Column Tax -> 3 hr take-home, paused. conflict
 - Pinwheel (TBD)
-- Stilt (TBD) -> Same as Nova Credit in terms of produce. Founders make the difference. Petal is same-ish? Sable is new to the game but seems to be doing well. 
-- SeriesFi -> Same as AL Ventures, racing for first mover advantage. Live coding in Node/React (TBD)
+- Stilt (TBD) -> Same as Nova Credit in terms of product. Founders make the difference. Petal is same-ish? Sable is new to the game but seems to be doing well for pre-series A. Pay was concerning among other things (leaning on pause)
+- SeriesFi -> Same as AL Ventures, racing for first-mover advantage. Live coding in Node/React (will likely pause, recruiter had a lot of candor)
 
 # General Observations
+Comity & Sable use the same bank to back their transactions. The founders at each company also came from BlueVine which was interesting. The market they are addressing is different though but eventually, there will be overlap. The pitch deck Sable uses is cut off even to investors which was curious. Comity also would not let me see pitch deck and mentioning column tax was a subtle trigger for the founder. It was slight but it was there. So many people are getting into this fintech space with an altruistic angle but the only way I can measure their ethics/execution is on past performance and history. Who were they during their childhood?
+
+Most other places use Evolve & Trust, and I've seen mentions of Silicon Valley Bank, Bancorp, Green Dot. It would be nice to understand the difference.
+
+# Questions
+- How hard is it to build a tax refund service? I could talk to CPA and take select accounting classes again and try it in sandbox. 
+- Can anyone be the middle-man to accessing government funding. It's basically just submitting a form on someone else's behalf? Research govt programs. 
