@@ -4,6 +4,7 @@ When all you do is edit YAML files and send memes at work but they want you to c
 ## Revisit
 - Intuit (Java) - take home which was emulating image matching using txt files to represent cat images. Threshold on percentage matching. Follow-up: Scalability.
 - Netflix (Java) - design service discovery w/ health check was so fucking brutal. You let your personal life interfere.
+- GlobalGiving (ANY) - front-end, consuming XML and displaying non-profits
 
 ## Attempt
 - LTSE (Python) - SRE Take home (Incident Lifecycle Management, Post Mortem). 
@@ -65,3 +66,4 @@ Most other places use Evolve & Trust, and I've seen mentions of Silicon Valley B
 # Questions
 - How hard is it to build a tax refund service? I could talk to CPA and take select accounting classes again and try it in sandbox. 
 - Can anyone be the middle-man to accessing government funding. It's basically just submitting a form on someone else's behalf? Research govt programs. 
+- What does their growth marketing look like?
