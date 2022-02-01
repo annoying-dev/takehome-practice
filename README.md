@@ -2,8 +2,8 @@
 When all you do is edit YAML files and send memes at work but they want you to code 80% of the time. Do I look like a magician to you? This will be the most code I've written in like five years. LOL. k. bye.
 
 ## Revisit
-- Intuit (Java) - take home which was emulating image matching using txt files to represent cat images. Threshold on percentage matching. Follow-up: Scalability.
-- Netflix (Java) - design service discovery w/ health check was so fucking brutal. You let your personal life interfere.
+- [Intuit](https://github.com/m4bui/CatMatch) - take home which was emulating image matching using txt files to represent cat images. Threshold on percentage matching. Follow-up: Scalability.
+- [Netflix](https://github.com/mtabui/espeon) - design service discovery w/ health check was so fucking brutal.
 - GlobalGiving (ANY) - front-end, consuming XML and displaying non-profits
 
 ## Attempt
